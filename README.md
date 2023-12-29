@@ -1,6 +1,7 @@
 # miyoomini(PLUS)で動作するQuickNESコア
 QuickNESコアはステレオパンニング(Stereo Panning)機能を利用すると、ファミコンの音楽や効果音がステレオ化されます  
 特に悪魔城伝説ではとても素晴らしいBGMに変化します  
+なおonionUIから直接QuickNESを起動できないため、Retroarch単体起動してからコアをロードしてください
 
 ## 導入手順
 ---
@@ -15,5 +16,6 @@ QuickNESコアはステレオパンニング(Stereo Panning)機能を利用す�
 9. Bボタンを何回か押してMAIN MENUを開き、Configurarion Fileを開き、Save Current Configurationを実行します  
 (これで次回QuickNESを起動した時に自動的に4:3とStereo Panningが有効になっています)
 10. Retroarchメニューを終了するにはセレクト＋ファンクションボタンを押してください
+
 
 以上
