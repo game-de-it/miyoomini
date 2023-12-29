@@ -15,7 +15,7 @@ QuickNESコアはステレオパンニング(Stereo Panning)機能を利用す�
 8. QUICK MENUでCoreOptions→Aspect Ratioを4:3にして、Audio ModeからStereo Panningを選択します
 9. Bボタンを何回か押してMAIN MENUを開き、Configurarion Fileを開き、Save Current Configurationを実行します  
 (これで次回QuickNESを起動した時に自動的に4:3とStereo Panningが有効になっています)
-10. Retroarchメニューを終了するにはセレクト＋ファンクションボタンを押してください
+10. Retroarchメニューを終了するにはSELECT＋ファンクションボタンを押してください
 
 
 以上
